@@ -5,3 +5,14 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+trips = [
+    ["Romantic Spot for Honeymoons", "Spain", 5],
+    ["Top Island Getaways", "Portugal", 3],
+    ["Most Romantic Destination", "Cuba", 2],
+    ["Top Spots for Skiing", "Switzwerland", 6]
+]
+
+trips.each do |name, country, days|
+    Trip.create(name: name, country: country, days: days)
+end
