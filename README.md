@@ -13,3 +13,8 @@ Goals for this practice:
 * Create a very quick API
 
 * Create an auth system for an API.
+
+
+Extra resources
+
+* https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one
