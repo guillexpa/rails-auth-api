@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is just a practice repositorium to follow this tutorial: 
 
-Things you may want to cover:
+https://medium.com/@billy.sf.cheng/a-rails-6-application-part-1-api-1ee5ccf7ed01
 
-* Ruby version
+Goals for this practice:
 
-* System dependencies
+* Recover some Rails knowledge
 
-* Configuration
+* Discover new Rails 6 features if any
 
-* Database creation
+* Create a very quick API
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Create an auth system for an API.
