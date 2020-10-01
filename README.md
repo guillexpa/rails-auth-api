@@ -1,4 +1,4 @@
-# README
+## Rails Auth API: Trip Manager
 
 This is just a practice repositorium to follow this tutorial: 
 
@@ -15,6 +15,6 @@ Goals for this practice:
 * Create an auth system for an API.
 
 
-Extra resources
+### Extra resources
 
 * https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one
