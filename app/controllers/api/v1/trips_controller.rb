@@ -1,4 +1,4 @@
-class Api::V1::TripsController < ActionController::API
+class Api::V1::TripsController < Api::ApplicationController
     before_action :set_trip, only: [:show, :update, :destroy]
     
     def index
